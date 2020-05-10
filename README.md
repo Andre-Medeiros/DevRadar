@@ -42,4 +42,4 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ---
 
-Progeto realizado através da semana Omnistack 11 apresentado pela Rocketseat 🚀.
+Projeto realizado através da semana Omnistack 11 apresentado pela Rocketseat 🚀.
